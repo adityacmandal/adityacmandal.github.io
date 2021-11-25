@@ -1,0 +1,28 @@
+.contact-icon {
+  color: rgba(14, 10, 10, 0.5);
+  font-size: 28px;
+  padding: 0 10px;
+
+  transition: all 0.5s ease;
+}
+
+.contact-icon:hover {
+  color: rgb(15, 15, 15);
+  /*transform: scale(1.5);*/
+
+  /*font-size: 30px;*/
+  transition: all 0.5s ease;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+a, u {
+  text-decoration: none;
+}
