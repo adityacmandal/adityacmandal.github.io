@@ -1,0 +1,9 @@
+@inproceedings{mandal2021deep,
+  title={A deep-learning approach to pupillometry},
+  author={Mandal, Aditya Chandra and Phatak, Abhijeet and Balaji, J Jothi and Lakshminarayanan, Vasudevan},
+  booktitle={Applications of Machine Learning 2021},
+  volume={11843},
+  pages={1184312},
+  year={2021},
+  organization={International Society for Optics and Photonics}
+}
