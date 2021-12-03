@@ -1,0 +1,9 @@
+@article{sarkar2021correlation,
+  title={Correlation Holography with A Single-Pixel Detector: A Review},
+  author={Sarkar, Tushar and Mandal, Aditya Chandra and Ziyang, Chen and Jixiong, Pu and Singh, Rakesh Kumar and others},
+  journal={Progress in Laser and Optoelectronics},
+  volume={58},
+  number={10},
+  pages={1011011},
+  year={2021}
+}
