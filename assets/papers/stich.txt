@@ -1,0 +1,6 @@
+@article{mandal2021structured,
+  title={Structured transmittance illumination coherence holography},
+  author={Mandal, Aditya Chandra and Sarkar, Tushar and Zalevsky, Zeev and Singh, Rakesh Kumar},
+  journal={arXiv preprint arXiv:2109.10326},
+  year={2021}
+}
