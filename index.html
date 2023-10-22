@@ -231,9 +231,9 @@
             <!-- Your HTML code here -->
 
 <!-- Add the id attribute to your "Show More" button -->
-            <a id="showMoreBtn" class="btn btn-secondary" data-bs-toggle="collapse" href="#news_more" role="button" aria-expanded="false" aria-controls="news_more">
+            <!-- <a id="showMoreBtn" class="btn btn-secondary" data-bs-toggle="collapse" href="#news_more" role="button" aria-expanded="false" aria-controls="news_more">
                 Show More
-            </a>
+            </a> -->
             
             <!-- Your JavaScript code here -->
             <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -242,7 +242,7 @@
                 document.addEventListener("DOMContentLoaded", function () {
                     const showMoreBtn = document.getElementById("showMoreBtn");
                     const newsMore = document.getElementById("news_more");
-            
+                
                     showMoreBtn.addEventListener("click", function () {
                         if (newsMore.classList.contains("show")) {
                             showMoreBtn.innerHTML = "Show More";
