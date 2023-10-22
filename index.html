@@ -226,6 +226,18 @@
                     </p>
                 </div>
             </div>
+            <script>
+                const showMoreBtn = document.getElementById("showMoreBtn");
+                const newsMore = document.getElementById("news_more");
+            
+                showMoreBtn.addEventListener("click", function () {
+                    if (newsMore.classList.contains("show")) {
+                        showMoreBtn.innerHTML = "Show More";
+                    } else {
+                        showMoreBtn.innerHTML = "Show Less";
+                    }
+                });
+            </script>
 
             <!-- Research -->
             <div class="px-4 py-2 row justify-content-md-center" id="research">
