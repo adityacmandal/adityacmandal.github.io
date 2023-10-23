@@ -237,7 +237,7 @@
                 document.addEventListener("DOMContentLoaded", function () {
                     const showMoreBtn = document.getElementById("showMoreBtn");
                     const newsMore = document.getElementById("news_more");
-                
+            
                     showMoreBtn.addEventListener("click", function () {
                         if (newsMore.classList.contains("show")) {
                             showMoreBtn.innerHTML = "Show More";
@@ -245,8 +245,18 @@
                             showMoreBtn.innerHTML = "Show Less";
                         }
                     });
+            
+                    // Listen for Bootstrap's collapse events to update the button text
+                    $('#news_more').on('hidden.bs.collapse', function () {
+                        showMoreBtn.innerHTML = "Show More";
+                    });
+            
+                    $('#news_more').on('shown.bs.collapse', function () {
+                        showMoreBtn.innerHTML = "Show Less";
+                    });
                 });
-            </script> 
+            </script>
+
 
             <!-- Your HTML code here -->
 
