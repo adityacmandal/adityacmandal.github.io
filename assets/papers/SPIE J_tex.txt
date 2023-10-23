@@ -1,0 +1,9 @@
+@inproceedings{mandal2023second,
+  title={Second-order correlation of randomness for enhanced quality imaging},
+  author={Mandal, Aditya Chandra and Singh, Rakesh Kumar and others},
+  booktitle={Biomedical Imaging and Sensing Conference},
+  volume={12608},
+  pages={167--170},
+  year={2023},
+  organization={SPIE}
+}
