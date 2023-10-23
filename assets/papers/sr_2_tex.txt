@@ -1,0 +1,9 @@
+@article{manisha2023randomness,
+  title={Randomness assisted in-line holography with deep learning},
+  author={Manisha and Mandal, Aditya Chandra and Rathor, Mohit and Zalevsky, Zeev and Singh, Rakesh Kumar},
+  journal={Scientific Reports},
+  volume={13},
+  number={1},
+  pages={10986},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
