@@ -1,0 +1,6 @@
+@article{mandal2022reconstructing,
+  title={Reconstructing complex field through opaque scattering layer with structured light illumination},
+  author={Mandal, Aditya Chandra and Phatak, Abhijeet and Zalevsky, Zeev and Singh, Rakesh Kumar and others},
+  journal={arXiv preprint arXiv:2205.09677},
+  year={2022}
+}
