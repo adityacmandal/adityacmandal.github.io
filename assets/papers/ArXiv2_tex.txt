@@ -1,0 +1,6 @@
+@article{phatak2023direct,
+  title={Direct Estimation of Pupil Parameters Using Deep Learning for Visible Light Pupillometry},
+  author={Phatak, Abhijeet and Mandal, Aditya Chandra and Balaji, Janarthanam Jothi and Lakshminarayanan, Vasudevan},
+  journal={arXiv preprint arXiv:2305.06425},
+  year={2023}
+}
