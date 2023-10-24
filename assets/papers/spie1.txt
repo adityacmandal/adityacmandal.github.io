@@ -1,0 +1,9 @@
+@inproceedings{mandal2023optimizing,
+  title={Optimizing deep learning based retinal diseases classification on optical coherence tomography scans},
+  author={Mandal, Aditya Chandra and Phatak, Abhijeet},
+  booktitle={Optical Coherence Imaging Techniques and Imaging in Scattering Media V},
+  volume={12632},
+  pages={231--239},
+  year={2023},
+  organization={SPIE}
+}
